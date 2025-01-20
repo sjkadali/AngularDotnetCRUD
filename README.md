@@ -1,2 +1,2 @@
-# EmployeeCRUD
+# AngularDotnetCRUD
 
