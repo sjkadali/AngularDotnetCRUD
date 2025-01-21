@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\skadalikat\\DotNetProjects\\EmployeeAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3E8415-E1E9-40C0-9039-7DC9DDC7671F}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\skadalikat\\dotnetprojects\\employeeapi\\employeeapi\\controllers\\employeedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3E8415-E1E9-40C0-9039-7DC9DDC7671F}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3E8415-E1E9-40C0-9039-7DC9DDC7671F}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\skadalikat\\dotnetprojects\\employeeapi\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D3E8415-E1E9-40C0-9039-7DC9DDC7671F}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\skadalikat\\DotNetProjects\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeDetailsController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeeDetailsController.cs",
+              "ToolTip": "C:\\Users\\skadalikat\\DotNetProjects\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeDetailsController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeeDetailsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:56:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeAPI",
+              "DocumentMoniker": "C:\\Users\\skadalikat\\DotNetProjects\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ToolTip": "C:\\Users\\skadalikat\\DotNetProjects\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeToolTip": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T21:32:45.598Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
